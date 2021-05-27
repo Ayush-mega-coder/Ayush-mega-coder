@@ -5,7 +5,7 @@
 
 ## I'm a Learner,  Developer, and Dreamer!!
 
-<img src="https://raw.githubusercontent.com/Ayush-mega-coder/Ayush-mega-coder/master/coding4.jpg" height="400" width="1200">
+<img src="https://raw.githubusercontent.com/Ayush-mega-coder/Ayush-mega-coder/master/coding4.jpg" height="400" width="800">
 
 
 - 🌱 I’m currently learning everything 🤣
