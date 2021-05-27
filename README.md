@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/Ayush-mega-coder/Ayush-mega-coder/master/coding4.jpg" height="400" width="1600">
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+/*- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!*/
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
