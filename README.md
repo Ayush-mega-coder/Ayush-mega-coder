@@ -1,11 +1,11 @@
 ### Hi there, I'm Spunkey - aka [Ayush-mega-coder][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?labelAyush.com&style=for-the-badge&url=https%3A%2F%2FAyush.com)](https://Ayush.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Learner,  Developer, and Dreamer!!
 
-<img src="https://raw.githubusercontent.com/Ayush-mega-coder/Ayush-mega-coder/master/coding4.jpg" height="400" width="1600">
+<img src="https://raw.githubusercontent.com/Ayush-mega-coder/Ayush-mega-coder/master/coding4.jpg" height="400" width="1200">
 
 
 - 🌱 I’m currently learning everything 🤣
