@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.Ayush-mega-coder.vercel.app/api?username=Ayush-mega-coder&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ayush-mega-coder&show_icons=true&hide_border=true" />
 
 </details>
 
