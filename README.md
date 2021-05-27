@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-mega-coder)](https://github.com/anuraghazra/github-readme-stats)
+  [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-mega-coder)](https://github.com/Ayush-mega-coder/github-readme-stats)
 
 
 </details>
@@ -106,5 +106,3 @@
 [linkedin]: https://www.linkedin.com/in/ayush-purohit-6173bb160/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
