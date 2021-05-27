@@ -5,6 +5,8 @@
 
 ## I'm a Learner,  Developer, and Dreamer!!
 
+<img src="coding4" height="2000" width="1000">
+
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
