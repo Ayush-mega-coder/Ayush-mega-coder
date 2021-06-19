@@ -20,7 +20,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ayush" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ayush" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="ayush" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="ayush | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ayush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ayush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -62,10 +62,10 @@
 </details>
 
 [website]: https://www.linkedin.com/in/ayush-purohit-6173bb160/
-[course]: 
+<!-- [course]: " " -->
 [twitter]: https://twitter.com/Ayushpu09646762
-[youtube]: 
+<!-- [youtube]: " "  -->
 [instagram]: https://instagram.com/bash_nodes
 [linkedin]: https://www.linkedin.com/in/ayush-purohit-6173bb160/
-[webdevplaylist]: 
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+<!-- [webdevplaylist]: " " -->
+<!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
