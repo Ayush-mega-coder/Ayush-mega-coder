@@ -61,7 +61,7 @@
 
 </details>
 
-[website]: https://www.linkedin.com/in/ayush-purohit-6173bb160/
+[website]: https://codeSTACKr.com
 <!-- [course]: " " -->
 [twitter]: https://twitter.com/Ayushpu09646762
 <!-- [youtube]: " "  -->
