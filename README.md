@@ -62,7 +62,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
-<!-- [course]: " " -->
+[course]: " "
 [twitter]: https://twitter.com/Ayushpu09646762
 <!-- [youtube]: " "  -->
 [instagram]: https://instagram.com/bash_nodes
