@@ -67,5 +67,5 @@
 <!-- [youtube]: " "  -->
 [instagram]: https://instagram.com/bash_nodes
 [linkedin]: https://www.linkedin.com/in/ayush-purohit-6173bb160/
-<!-- [webdevplaylist]: " " -->
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 <!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
